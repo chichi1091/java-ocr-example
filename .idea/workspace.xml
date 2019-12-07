@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7101f1af-8433-495d-91ea-0bbaddd41699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chichi1091/OCRApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sample2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tessdata/jpn.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tessdata/jpn_vert.traineddata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +107,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/tessdata" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/pdf" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="configurable.group.build" />
@@ -211,9 +204,21 @@
       <workItem from="1575720844707" duration="137000" />
       <workItem from="1575721152680" duration="56000" />
       <workItem from="1575721215955" duration="224000" />
-      <workItem from="1575721502628" duration="4782000" />
+      <workItem from="1575721502628" duration="5415000" />
     </task>
+    <task id="LOCAL-00001" summary="OCRサンプル">
+      <created>1575726665079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575726665080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OCRサンプル" />
+    <option name="LAST_COMMIT_MESSAGE" value="OCRサンプル" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575723068042">
@@ -224,22 +229,26 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state x="554" y="218" width="689" height="579" key="#xdebugger.evaluate/0.23.1680.971@0.23.1680.971" timestamp="1575723326442" />
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1575725788475">
+    <state x="274" y="114" key="CommitChangelistDialog2" timestamp="1575726664374">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1575725788475" />
-    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1575725788474">
+    <state x="274" y="114" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1575726664374" />
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1575727664896">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1575725788474" />
-    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1575725788473">
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1575727664896" />
+    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1575727664894">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1575725788473" />
-    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1575725788475">
+    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1575727664894" />
+    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1575727664893">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1575725788475" />
+    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1575727664893" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1575727664895">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1575727664895" />
     <state width="1358" height="298" key="GridCell.Tab.1.bottom" timestamp="1575723640848">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
@@ -256,6 +265,10 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state width="1358" height="298" key="GridCell.Tab.1.right/0.23.1680.971@0.23.1680.971" timestamp="1575723640848" />
+    <state x="336" y="251" key="Vcs.Push.Dialog.v2" timestamp="1575726672583">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="336" y="251" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1575726672583" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
