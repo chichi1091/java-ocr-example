@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7101f1af-8433-495d-91ea-0bbaddd41699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pdf/sample2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chichi1091/OCRApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chichi1091/OCRApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +98,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -117,6 +120,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/pdf" />
       <recent name="$PROJECT_DIR$/src/main/resources/tessdata" />
       <recent name="$PROJECT_DIR$/src/main/resources/images" />
     </key>
@@ -204,7 +208,7 @@
       <workItem from="1575720844707" duration="137000" />
       <workItem from="1575721152680" duration="56000" />
       <workItem from="1575721215955" duration="224000" />
-      <workItem from="1575721502628" duration="5415000" />
+      <workItem from="1575721502628" duration="7015000" />
     </task>
     <task id="LOCAL-00001" summary="OCRサンプル">
       <created>1575726665079</created>
@@ -213,12 +217,20 @@
       <option name="project" value="LOCAL" />
       <updated>1575726665080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PDFも試してみる">
+      <created>1575727724464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575727724464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OCRサンプル" />
-    <option name="LAST_COMMIT_MESSAGE" value="OCRサンプル" />
+    <MESSAGE value="PDFも試してみる" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDFも試してみる" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575723068042">
@@ -229,26 +241,26 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state x="554" y="218" width="689" height="579" key="#xdebugger.evaluate/0.23.1680.971@0.23.1680.971" timestamp="1575723326442" />
-    <state x="274" y="114" key="CommitChangelistDialog2" timestamp="1575726664374">
+    <state x="274" y="114" key="CommitChangelistDialog2" timestamp="1575727723794">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="274" y="114" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1575726664374" />
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1575727664896">
+    <state x="274" y="114" key="CommitChangelistDialog2/0.23.1680.971@0.23.1680.971" timestamp="1575727723794" />
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1575734704594">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1575727664896" />
-    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1575727664894">
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1575734704594" />
+    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1575734704593">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1575727664894" />
-    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1575727664893">
+    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1575734704593" />
+    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1575734704592">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1575727664893" />
-    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1575727664895">
+    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1575734704592" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1575734704593">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1575727664895" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1575734704593" />
     <state width="1358" height="298" key="GridCell.Tab.1.bottom" timestamp="1575723640848">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
@@ -265,17 +277,17 @@
       <screen x="0" y="23" width="1680" height="971" />
     </state>
     <state width="1358" height="298" key="GridCell.Tab.1.right/0.23.1680.971@0.23.1680.971" timestamp="1575723640848" />
-    <state x="336" y="251" key="Vcs.Push.Dialog.v2" timestamp="1575726672583">
+    <state x="336" y="251" key="Vcs.Push.Dialog.v2" timestamp="1575727732912">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="336" y="251" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1575726672583" />
+    <state x="336" y="251" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1575727732912" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/chichi1091/OCRApplication.java</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
